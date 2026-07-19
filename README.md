@@ -12,7 +12,6 @@ I focus on extracting complex datasets and transforming them into automated, int
 - Languages:** Python (Pandas, NumPy), SQL
 - AI & ML:** Neural Networks, Deep Learning, Predictive Modeling, NLP
 - Data Science:** ETL Pipelines, EDA, Business Intelligence, Power BI, QlikView
-- Databases:** MySQL, Data Modeling, Query Optimization
 
  📫 Connect with Me
 - 💼 **LinkedIn:** [linkedin.com/in/muhupua-tjimune](https://linkedin.com/in/muhupua-tjimune)
